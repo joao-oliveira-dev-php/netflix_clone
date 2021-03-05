@@ -2,6 +2,8 @@
 
 <p align="center">O Netflix Clone se trata de um sistema feito em React.js que tem por objetivo copiar a pagina principal do netflix cujo objetivo é exclusivamente para pratica do react.</p>
 
+## :camera: Demonstração
+
 <div align="center" >
   <img src="./github_img/img1.PNG"><br/><br/>
   <img src="./github_img/img2.png"><br/><br/>
