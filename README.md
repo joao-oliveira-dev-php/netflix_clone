@@ -36,6 +36,15 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - ✔️ Laravel
 
+## ⚙ Configuração
+
+1- Para instalar as dependências:
+> npm install
+
+2- Para iniciar a aplicação:
+> npm start
+
+
 
 Feito com 💜 por JOÃO OLIVEIRA 👋 [Veja meu Linkedin](https://www.linkedin.com/in/joao-php/)
 <br>
