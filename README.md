@@ -1,6 +1,6 @@
 <h1 align="center">Netflix Clone</h1>
 
-<p align="center">The monorepo of a application that allows users to schedule an appointment with their favorite barber and show the barber their schedule for the day.</p>
+<p align="center">O Netflix Clone se trata de um sistema feito em React.js que tem por objetivo copiar a pagina principal do netflix cujo objetivo é exclusivamente para pratica do react.</p>
 
 <div align="center" >
   <img src="./github_img/img1.PNG"><br/><br/>
