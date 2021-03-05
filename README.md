@@ -1,4 +1,4 @@
-<h1 align="center">Netflix Clone</h1>
+<h1 align="center">:tv: Netflix Clone :tv:</h1>
 
 <p align="center">O Netflix Clone se trata de um sistema feito em React.js que tem por objetivo copiar a pagina principal do netflix cujo objetivo é exclusivamente para pratica do react.</p>
 
