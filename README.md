@@ -19,7 +19,6 @@ This project was developed with the following technologies:
 
 - ✔️ React Native
 
-- ✔️ NodeJS
 
 - ✔️ Context API
 
