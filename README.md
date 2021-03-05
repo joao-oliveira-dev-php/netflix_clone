@@ -21,8 +21,6 @@ This project was developed with the following technologies:
 
 - ✔️ NodeJS
 
-- ✔️ React Hooks
-
 - ✔️ Context API
 
 - ✔️ Styled-components
