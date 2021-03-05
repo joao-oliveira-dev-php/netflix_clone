@@ -26,10 +26,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - ✔️ Styled Sheet
 
+- ✔️ React-Router-Dom
+
 - ✔️ Laravel
 
-- ✔️ React-Router-Dom
-- 
 
 Feito com 💜 por JOÃO OLIVEIRA 👋 [Veja meu Linkedin](https://www.linkedin.com/in/joao-php/)
 <br>
