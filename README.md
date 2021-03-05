@@ -9,9 +9,10 @@
   <img src="./github_img/img4.png"><br/><br/>
 </div><br/>
 
+## :tv: Video Demonstrativo
+
 <img src="https://img.shields.io/badge/Assista_o_video_demonstrativo_do_sistema-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 
-<a href="https://joaoweb.com.br/Netflix_clone.gif" align="center"> VIDEO DEMONSTRATIVO DO APP </a>
 
 
 ---
