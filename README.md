@@ -9,42 +9,28 @@
   <img src="./github_img/img4.png"><br/><br/>
 </div><br/>
 
-<a href="https://joaoweb.com.br/Netflix_clone.gif" align="center"> VIDEO DEMONSTRATIVO DO APP </a><br/>
+<a href="https://joaoweb.com.br/Netflix_clone.gif" align="center"> VIDEO DEMONSTRATIVO DO APP </a>
+
 
 ---
 
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 
-This project was developed with the following technologies:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- ✔️ Typescript
 
 - ✔️ ReactJS
 
-- ✔️ React Native
-
-
 - ✔️ Context API
 
-- ✔️ Styled-components
+- ✔️ Styled Sheet
 
-- ✔️ React Spring
+- ✔️ Laravel
 
-- ✔️ Polished
+- ✔️ React-Router-Dom
+- 
 
-- ✔️ Docker
-
-- ✔️ PostgreSQL
-
-- ✔️ Axios
-
-
-Made with 💜 by ARTHUR PC 👋 [See my linkedin](https://www.linkedin.com/in/arthurpc03/)
+Feito com 💜 por JOÃO OLIVEIRA 👋 [Veja meu Linkedin](https://www.linkedin.com/in/joao-php/)
 <br>
-<a href="http://youtube.com/c/arthurpc">
-  <div style="align-self: center;align-items: center;" >
-    <p><img src="./github/youtube.png" alt="ARTHUR PC" style="border-radius: 50%;width: 25px; height: 25px;">
-      See my Youtube channel!</p>
-  </div>
-</a>
+
