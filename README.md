@@ -9,7 +9,7 @@
   <img src="./github_img/img4.png"><br/><br/>
 </div><br/>
 
-<a src="https://joaoweb.com.br/Netflix_clone.gif">>>>>>>>>>>>> VIDEO DEMONSTRATIVO DO APP <<<<<<<<<<<<<<</a>
+<a href="https://joaoweb.com.br/Netflix_clone.gif" align="center"> VIDEO DEMONSTRATIVO DO APP /a>
 
 ---
 
