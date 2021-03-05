@@ -7,9 +7,9 @@
   <img src="./github_img/img2.png"><br/><br/>
   <img src="./github_img/img3.png"><br/><br/>
   <img src="./github_img/img4.png"><br/><br/>
-</div>
+</div><br/>
 
-[Video demonstrativo do sistema](https://joaoweb.com.br/Netflix_clone.gif)
+>>>>>>>>>>>>>>>>>>>>>>[Video demonstrativo do sistema]<<<<<<<<<<<<<<<<<<<<<<<<<<(https://joaoweb.com.br/Netflix_clone.gif)
 
 ---
 
