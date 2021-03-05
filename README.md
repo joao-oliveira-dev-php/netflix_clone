@@ -9,7 +9,7 @@
   <img src="./github_img/img4.png"><br/><br/>
 </div><br/>
 
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=teste&logoColor=white"/>
+<img src="https://img.shields.io/badge/Teste-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 
 <a href="https://joaoweb.com.br/Netflix_clone.gif" align="center"> VIDEO DEMONSTRATIVO DO APP </a>
 
