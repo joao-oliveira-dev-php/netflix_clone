@@ -3,7 +3,7 @@
 <p align="center">The monorepo of a application that allows users to schedule an appointment with their favorite barber and show the barber their schedule for the day.</p>
 
 <div align="center" >
-  <img src="./github_img/img1.png">
+  <img src="./github_img/img1.PNG">
   <img src="./github_img/img2.png">
   <img src="./github_img/img3.png">
   <img src="./github_img/img4.png">
